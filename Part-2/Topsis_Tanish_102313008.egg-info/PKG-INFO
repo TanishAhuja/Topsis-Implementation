@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: Topsis-Tanish-102313008
+Version: 1.0.0
+Summary: Python package implementing TOPSIS method
+Author: Tanish Ahuja
+Author-email: tanishahuja06@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: openpyxl
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary

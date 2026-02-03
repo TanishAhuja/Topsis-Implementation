@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>TOPSIS Web Service</title>
+</head>
+
+<body>
+    <h2>TOPSIS Web Service</h2>
+
+    <form action="/process" method="post" enctype="multipart/form-data">
+
+        <label>Upload CSV / Excel file:</label><br>
+        <input type="file" name="file" accept=".csv,.xlsx" required><br><br>
+
+        <label>Weights (comma separated):</label><br>
+        <input type="text" name="weights" placeholder="1,1,1,1,1" required><br><br>
+
+        <label>Impacts (+ or - comma separated):</label><br>
+        <input type="text" name="impacts" placeholder="+,+,-,-,-" required><br><br>
+
+        <label>Email ID:</label><br>
+        <input type="email" name="email" required><br><br>
+
+        <button type="submit">Submit</button>
+
+    </form>
+
+</body>
+
+</html>

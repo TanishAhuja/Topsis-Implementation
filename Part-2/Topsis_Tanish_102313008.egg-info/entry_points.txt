@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = Topsis_Tanish_102313008.topsis:main
