@@ -154,14 +154,6 @@ The following steps are implemented:
 
 ---
 
-## Assignment Completion Status
-
-Part 1 – CLI Program: Completed  
-Part 2 – PyPI Package: Completed  
-Part 3 – Web Service: Completed  
-
----
-
 ## Author
 
 Tanish Ahuja  
